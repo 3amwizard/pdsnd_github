@@ -222,6 +222,6 @@ def main():
     if restart == 'Y':
         main()
     else:
-        print('Thank you for your time')
+        print('Thank you for your time, we hope you found what you were looking for.')
 
 main()
