@@ -19,3 +19,5 @@ Most of the credit here goes to Udacity with support from stackoverflow
 I would like to thank my partner for all her support as I worked on this course
 ### Condolences
 I would like to take this time to appreciate my cousin who passed so young from the dreaded covid disease just two days ago now. I wish his wish and his young son would fine peace in this painful time
+###Note
+The Bikeshare file does not use numpy, see the file for details
