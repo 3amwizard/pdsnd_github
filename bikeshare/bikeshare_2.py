@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 # it seems we didn't need numpy for this bit of code but it here as the template included it
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
