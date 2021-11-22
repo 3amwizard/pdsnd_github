@@ -15,3 +15,5 @@ this project uses csv data from washington, chicago and new york city
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Most of the credit here goes to Udacity with support from stackoverflow
+### Acknowledgements
+I would like to thank my partner for all her support as I worked on this course
