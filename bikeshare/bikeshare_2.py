@@ -21,7 +21,7 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = str(input('Please enter a city, chicago, new york city or washington:\n').casefold())
     while city not in ('chicago', 'new york city', 'washington'):
-        print('please enter a valid city')
+        print('please enter a valid city name as listed')
         city = str(input('Please enter a city, chicago, new york city or washington:\n').casefold())
 
     # get user input for month (all, january, february, ... , june)
